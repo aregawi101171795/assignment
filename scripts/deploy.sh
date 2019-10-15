@@ -1,3 +1,4 @@
 #!/bin/bash
+#aregawi101171795
 
-echo "This file will be responsible for the deploy."
+now public --token=$NOW_TOKEN
